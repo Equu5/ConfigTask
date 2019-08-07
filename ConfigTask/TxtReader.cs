@@ -75,7 +75,7 @@ namespace ConfigTask
 
                     for (int i = 0; i < leftLines.Length; i++)
                     {
-                        parent = Add(leftLines[i], splittedLines[1], parent);
+                        parent = Add(leftLines[i], i != leftLines.Length - 1 ? String.Empty : splittedLines[1], parent);
                     }
                 }
             }
