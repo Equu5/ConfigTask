@@ -1,0 +1,11 @@
+id=default
+session.timeout=120
+session.server.0.host=127.0.0.1
+session.server.0.port=1111
+session.server.0.id=session1
+session.server.1.host=192.168.1.1
+session.server.1.port=7777
+session.server.1.id=session2
+image.cat.width=640
+image.cat.height=480
+image.folder="~/content/images"

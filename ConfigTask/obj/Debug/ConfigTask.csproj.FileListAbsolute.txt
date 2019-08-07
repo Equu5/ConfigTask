@@ -1,0 +1,7 @@
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\obj\Debug\ConfigTask.csprojAssemblyReference.cache
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\obj\Debug\ConfigTask.csproj.CoreCompileInputs.cache
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\bin\Debug\ConfigTask.exe.config
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\bin\Debug\ConfigTask.exe
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\bin\Debug\ConfigTask.pdb
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\obj\Debug\ConfigTask.exe
+C:\Users\Kaban\source\repos\ConfigTask\ConfigTask\obj\Debug\ConfigTask.pdb
